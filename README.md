@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Ram Visshal ✌️
 
-<!--
-**ramvisshal/Ramvisshal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a Student passionate about AI & Data science, building cool stuff with code, always learning something new, And ready for any work.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: A self generating PDF website for reports
+- 🌱 I’m currently learning: AI & DS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌍 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-visshal-2250a1291/)
+
+Thanks for stopping by! 😊
