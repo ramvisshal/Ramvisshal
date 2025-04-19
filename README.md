@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm a Student passionate about AI & Data science, building cool stuff with code, always learning something new, And ready for any work.
 
 - 🔭 I’m currently working on: A self generating PDF website for reports
-- 🌱 I’m currently learning: AI & DS
+- 🌱 I’m currently learning: Web DEvelopment
 
 
 ## 🌍 Let's Connect
